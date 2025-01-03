@@ -1,7 +1,5 @@
 # capx-assignment
 
-## Frontend: 
-
 # Frontend - Portfolio Tracker
 
 This folder contains the frontend code for the Portfolio Tracker application. It is built using React.js and Material-UI for a responsive and intuitive UI.
@@ -21,7 +19,7 @@ npm install
 npm start
 ```
 # Set Up Environment Variables
-   **REACT_APP_BACKEND_URL** https://capx-backend-bbv8.onrender.com/api/stocks
+   **REACT_APP_BACKEND_URL** https://capx-assignment.onrender.com/api/stocks
 
 # Access the Application
    **Open your browser and go to**:
@@ -37,9 +35,6 @@ npm start
    # 3. Error Handling:
          If an invalid or incorrect stock ticker is added, the frontend displays the error message returned by the backend.
 ## Links :
-
-# Deployed Frontend Link:
-https://github.com/Jahnavi-Undavalli/capx_frontend
 
 # Deployed Application Link:
 https://capx-frontend-8nfd.vercel.app/
