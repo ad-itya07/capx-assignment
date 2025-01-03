@@ -18,12 +18,14 @@ npm install
 # 3. Start the Frontend Development Server
 npm start
 ```
-# Set Up Environment Variables
-   **REACT_APP_BACKEND_URL** https://capx-assignment.onrender.com/api/stocks
+### Set Up Environment Variables in frontend folder
+```bash
+   **REACT_APP_BACKEND_URL** = https://capx-assignment.onrender.com/api/stocks
+```
 
 # Access the Application
    **Open your browser and go to**:
-      https://capx-frontend-8nfd.vercel.app/
+      [https://capx-frontend-8nfd.vercel.app/](https://capx-assignment-frontend.onrender.com/)
       
 ## Assumptions and Limitations:
    # 1. Backend Dependency:
@@ -37,7 +39,7 @@ npm start
 ## Links :
 
 # Deployed Application Link:
-https://capx-frontend-8nfd.vercel.app/
+[https://capx-frontend-8nfd.vercel.app/](https://capx-assignment-frontend.onrender.com/)
 
 
 
